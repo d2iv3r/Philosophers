@@ -18,7 +18,7 @@ This project enhances your understanding of concurrency, multithreading, and syn
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/philosophers.git
+   git clone git@github.com:d2iv3r/Philosophers.git
    cd philosophers
 
 2. Build the project:
@@ -62,4 +62,3 @@ Run the program with the following arguments:
 4. The simulation ends when:
 - A philosopher dies, or
 - All philosophers have eaten the specified number of times (if provided).
-
